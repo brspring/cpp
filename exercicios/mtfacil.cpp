@@ -9,13 +9,13 @@ int main() {
     float f;
     double d;
     
-    cin >> i, l, c, f, d;
+    cin >> i >> l >> c >> f >> d;
     
-    cout << i;
-    cout << l;
-    cout << c;
-    cout << f;
-    cout << d;
+    cout << i << "\n";
+    cout << l << "\n";
+    cout << c << "\n";
+    cout << f << "\n";
+    cout << d << "\n";
     
     
     return 0;
